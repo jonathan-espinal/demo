@@ -1,12 +1,18 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "cards": [
+    { "id": 1, "name": "2", "type": "Hearts" },
+    { "id": 2, "name": "3", "type": "Hearts" },
+    { "id": 3, "name": "4", "type": "Hearts" },
+    { "id": 4, "name": "5", "type": "Hearts" },
+    { "id": 5, "name": "6", "type": "Hearts" },
+    { "id": 6, "name": "7", "type": "Hearts" },
+    { "id": 7, "name": "8", "type": "Hearts" },
+    { "id": 8 "name": "9", "type": "Hearts" },
+    { "id": 9 "name": "10", "type": "Hearts" },
+    { "id": 10 "name": "J", "type": "Hearts" },
+    { "id": 11 "name": "Q", "type": "Hearts" },
+    { "id": 12, "name": "K", "type": "Hearts" },
+    { "id": 13 "name": "A", "type": "Hearts" }
   ],
   "profile": {
     "name": "typicode"
